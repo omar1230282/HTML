@@ -1,1 +1,20 @@
 # Mi-primer-p-gina-HTML-
+<!doctype html>
+<html>
+  <head>
+    <title>Title</title>
+    <meta charset="utf-8">
+  </head>
+  <body>
+    <h1>Centro comercial regional</h1>
+    <p>centro comercial regional en rodeo durango
+    ubicado en la calle panamericana S/N barrio eta ofrece una variedad de productos incluyendo carnes dulces perfumeria
+  <p>
+  <br>
+  <br>
+  <br>
+<p>Caracteristicas<p>
+<br>
+<p>tiene de 50 a 70 empleados cuentan con abarrotes,carnes frias,perfumeria. cuenta con acceso a silla de ruedas
+</body>
+</html>
