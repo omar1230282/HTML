@@ -1,5 +1,5 @@
 # Mi-primer-p-gina-HTML-
-<!doctype html>
+<doctype html>
 <html>
   <head>
     <title>Title</title>
