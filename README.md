@@ -6,7 +6,7 @@
 </head>
 <body>
 <h1 style="color;text-align:center">Este es
-un encabezado que esta centrado y de color azul</h1>
-<p style="color:green;>este es un parrafo en color verde</p>
+un encabezado que esta centrado y de color azul azul</h1
+
 </body>
 </html>
