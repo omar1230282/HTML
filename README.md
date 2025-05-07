@@ -9,5 +9,4 @@
 un encabezado que esta centrado y de color azul</h1
 <h3 style="color:green;text-align:centet">este  es 
     un parrafo en color verde</h3
-</body>
-</html>
+
