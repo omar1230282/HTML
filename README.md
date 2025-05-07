@@ -8,5 +8,5 @@
 <h1 style="color;text-align:center">Este es
 un encabezado que esta centrado y de color azul</h1
 <p style="color:green;text-align:center">este  es 
-    un parrafo en color verde
+    un parrafo en color verde<p>
 
