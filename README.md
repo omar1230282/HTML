@@ -20,5 +20,5 @@
 
 <tr>
 
-<td>Como la llevam acabo ustedes</td> <td>busco lo que me sirve si no lo tiro</td> <td>botellas de agua para volver a tomarlas
+<td>Como la llevam acabo ustedes</td> <td>busco lo que me sirve si no lo tiro</td> <td>botellas de agua para volver a tomarlas</td> <td>tegalo las cosas que pueden servir</td>
 
