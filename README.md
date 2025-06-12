@@ -24,4 +24,4 @@
 
 <tr>
 
-<td>Propuestas que llevarias acabo en su comunidad para hacer esas practicas</td> <td>pensar antes de comprar algo</td> <td> obdervar alguna solucion para no tirarlo</td> 
+<td>Propuestas que llevarias acabo en su comunidad para hacer esas practicas</td> <td>pensar antes de comprar algo</td> <td> obdervar alguna solucion para no tirarlo</td> <td>el material puede llegar a utilizarse mas dd una vez
