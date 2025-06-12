@@ -8,5 +8,5 @@
 <table>
 <tr>
 <td>como lo llevaban acabo sus abuelitos</td>
-<td>
+<td>como lo llevaban acabo sus padres</td>
 
