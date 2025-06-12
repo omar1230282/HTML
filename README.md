@@ -13,4 +13,6 @@
 <tr>
 
 
-<td>Como lo llevaban acabo sus padres
+<td>Como lo llevaban acabo sus padres</td>
+<Reducir/td>
+
