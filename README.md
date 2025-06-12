@@ -16,5 +16,9 @@
 <td>Como lo llevaban acabo sus padres</td> <td>Reducir</td> <td>evitaban comprar cosas inecsecarias</td> <td>Reutilizar</td> 
 <td>guardamos el carton para hacer decoraciones</td>  <td>Reciclar</td>
 
-<td>con la ropa que no sirve y toallas hacian trapos
+<td>con la ropa que no sirve y toallas hacian trapos</td>
+
+<tr>
+
+<td>Como la llevam acabo ustedes
 
