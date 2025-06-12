@@ -13,6 +13,6 @@
 <tr>
 
 
-<td>Como lo llevaban acabo sus padres</td> <td>Reducir</td>
+<td>Como lo llevaban acabo sus padres</td> <td>Reducir</td> <td>evitaban comprar cosas inecsecarias</td>
 
 
