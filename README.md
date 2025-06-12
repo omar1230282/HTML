@@ -7,6 +7,6 @@
 <body>
 <table>
 <tr>
-<td>como lo llevaban acabo sus abuelitos</td>
-<td>como lo llevaban acabo sus padres</td>
+<td>como lo llevaban acabo sus abuelitos</td> <tr>reducir<tr>
+
 
