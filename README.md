@@ -1,4 +1,4 @@
-<DOCTYPE html>
+ñ<DOCTYPE html>
 <html>
 
 <head>
@@ -7,6 +7,6 @@
 <body>
 <table>
 <tr>
-<td>como lo llevaban acabo sus abuelitos</td>    <tr>reducir<tr>
+<td>como lo llevaban acabo sus abuelitos</td> <td>reducir<td>
 
 
