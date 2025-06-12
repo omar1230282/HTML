@@ -13,4 +13,4 @@
 <tr>
 <td></td>
 <td></td>
-
+<td>Como lo llevaban acabo sus padres
