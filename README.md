@@ -13,6 +13,7 @@
 <tr>
 
 
-<td>Como lo llevaban acabo sus padres</td> <td>Reducir</td> <td>evitaban comprar cosas inecsecarias</td>
+<td>Como lo llevaban acabo sus padres</td> <td>Reducir</td> <td>evitaban comprar cosas inecsecarias</td> <td>Reutilizar</td> 
+<td>guardamos el carton para hacer decoraciones
 
 
